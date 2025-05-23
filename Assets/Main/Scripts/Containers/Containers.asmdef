@@ -1,0 +1,17 @@
+{
+    "name": "Container",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7abeedb7aebde4498a0c55c156b6d324",
+        "GUID:222a1c2dcfa0f4c258cff99dab0ba714"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
